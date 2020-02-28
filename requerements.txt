@@ -1,0 +1,4 @@
+board
+rpi_ws281x adafruit-circuitpython-neopixel
+firebase_admin
+

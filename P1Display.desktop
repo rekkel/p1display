@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=P1Display
+Terminal=false
+Type=Application
+Exec=sudo python3 /home/pi/P1plus_display/P1plus_display.py
+Icon=/home/pi/P1Generator/smartmetericon.png
